@@ -26,6 +26,13 @@ table {
 .thong-tin {
   background-color: #f0f0f0;
 }
+.thong-tin table {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.img {
+  text-align: center;
+}
 td img {
   border-radius: 50%;
   width: 100px;
