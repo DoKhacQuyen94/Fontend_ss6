@@ -1,0 +1,39 @@
+header {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  line-height: 2;
+  height: 120px;
+}
+header h1 {
+  margin: 2px;
+}
+button {
+  margin-top: 2px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+}
+table {
+  /* text-align: center; */
+  width: 85%;
+}
+table img {
+  margin-left: 300px;
+  border-radius: 50%;
+  border: 1px solid blue;
+  width: 150px;
+}
+/* .content {
+  text-align: center;
+} */
+.btn {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 30px;
+  line-height: 2;
+}

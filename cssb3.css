@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+}
+header {
+  background-color: #282c34;
+  color: white;
+}
+h1 {
+  text-align: left;
+  line-height: 3;
+}
+table {
+  width: 100%;
+}
+
+.nav {
+  text-align: right;
+  line-height: 3;
+}
+.nav button {
+  background-color: #282c34;
+  color: white;
+  border: none;
+  margin-right: 20px;
+}
+.thong-tin {
+  background-color: #f0f0f0;
+}
+td img {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.btn button {
+  width: 350px;
+  background-color: #282c34;
+  color: white;
+  height: 50px;
+  margin: 10px;
+
+  border-radius: 10px;
+}
+footer {
+  background-color: #f0f0f0;
+}
+footer p {
+  text-align: center;
+  height: 60px;
+}
+span {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 4;
+}
